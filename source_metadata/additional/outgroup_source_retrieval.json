@@ -1,0 +1,24 @@
+{
+  "request_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_000934%2CNC_001821&rettype=gbwithparts&retmode=text",
+  "resolved_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_000934%2CNC_001821&rettype=gbwithparts&retmode=text",
+  "retrieved_utc": "2026-11-24T07:04:19.774883+00:00",
+  "http_status": 200,
+  "response_bytes": 88804,
+  "response_sha256": "548ff3f5d99713e36ad63ccd938357f80bc4116066308e72ef15783e1ded3680",
+  "records": [
+    {
+      "version": "NC_000934.1",
+      "organism": "Loxodonta africana",
+      "definition": "Loxodonta africana mitochondrion, complete genome.",
+      "bytes": 43475,
+      "sha256": "328dbf1fe68b1fc34687734f8bd1dc4499fd163eb29f89a99e23c1a511d2e386"
+    },
+    {
+      "version": "NC_001821.1",
+      "organism": "Dasypus novemcinctus",
+      "definition": "Dasypus novemcinctus mitochondrion, complete genome.",
+      "bytes": 45329,
+      "sha256": "68ab7fae909bf862b6dd47bac695b79247b9b2e4a0df79fe897c099c08725156"
+    }
+  ]
+}

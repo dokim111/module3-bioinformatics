@@ -1,0 +1,18 @@
+{
+  "retrieved_utc": "2026-11-24T06:29:17.439446+00:00",
+  "request_url_unversioned_latest_check": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001665&rettype=gbwithparts&retmode=text",
+  "resolved_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001665&rettype=gbwithparts&retmode=text",
+  "http_status": 200,
+  "returned_accession_version": "NC_001665.2",
+  "sha256": "2d14876af97fb8301ebb391026a82ff1029406ca10a787b84733fe27118a686d",
+  "bytes": 51100,
+  "independent_CDS_fasta": {
+    "retrieved_utc": "2026-11-24T06:29:57.589032+00:00",
+    "request_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001665.2&rettype=fasta&retmode=text&seq_start=14136&seq_stop=15278&strand=1",
+    "http_status": 200,
+    "bytes": 1255,
+    "sha256": "a28dfa67a9ad47555fa27ab74bccb65f93a9e94e7a440fc356919817508b3587",
+    "sequence_length_nt": 1143,
+    "sequence_sha256": "cf943cdba17fb947f1ac3c12caa6fed9f6705482bf708efb446505e23a74859e"
+  }
+}

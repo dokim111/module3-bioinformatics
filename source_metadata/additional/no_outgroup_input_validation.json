@@ -1,0 +1,81 @@
+{
+  "selection_note": "Only the two inputs corresponding to the uploaded no-outgroup SVGs; no execution settings asserted",
+  "inputs": [
+    {
+      "condition": "COX1_no_opossum",
+      "gene": "COX1",
+      "filename": "Module3_COX1_8species_without_opossum.fasta",
+      "baseline_file": "COX1_9species_mammals.fasta",
+      "baseline_sha256": "7555c9b0448280c2702e3209d48f436fe5ef344bff17c7d62a301219e873672d",
+      "removed_from_baseline": [
+        "Didelphis_virginiana"
+      ],
+      "taxa": 8,
+      "retained_taxa_in_original_order": [
+        "Homo_sapiens",
+        "Pan_troglodytes",
+        "Castor_canadensis",
+        "Mus_musculus",
+        "Bos_taurus",
+        "Balaenoptera_musculus",
+        "Canis_lupus_familiaris",
+        "Felis_catus"
+      ],
+      "lengths_nt": {
+        "Homo_sapiens": 1542,
+        "Pan_troglodytes": 1542,
+        "Castor_canadensis": 1545,
+        "Mus_musculus": 1545,
+        "Bos_taurus": 1545,
+        "Balaenoptera_musculus": 1551,
+        "Canis_lupus_familiaris": 1545,
+        "Felis_catus": 1545
+      },
+      "retained_record_blocks_byte_identical": true,
+      "previous_subset_file_unchanged": false,
+      "outgroup": null,
+      "interpretation": "unrooted split comparison",
+      "priority": "1: outgroup omission",
+      "bytes": 12680,
+      "sha256": "93908fdd600fa1be25df3308216af035c54510b70cf8c15847f2f446414e68a1"
+    },
+    {
+      "condition": "CYTB_no_opossum",
+      "gene": "CYTB",
+      "filename": "Module3_CYTB_8species_without_opossum.fasta",
+      "baseline_file": "CYTB_9species_mammals.fasta",
+      "baseline_sha256": "053a986011e297809bf1f9a5cf523890ff0b9ecd788cd6bafe985a8b8a467b8a",
+      "removed_from_baseline": [
+        "Didelphis_virginiana"
+      ],
+      "taxa": 8,
+      "retained_taxa_in_original_order": [
+        "Homo_sapiens",
+        "Pan_troglodytes",
+        "Castor_canadensis",
+        "Mus_musculus",
+        "Bos_taurus",
+        "Balaenoptera_musculus",
+        "Canis_lupus_familiaris",
+        "Felis_catus"
+      ],
+      "lengths_nt": {
+        "Homo_sapiens": 1141,
+        "Pan_troglodytes": 1141,
+        "Castor_canadensis": 1140,
+        "Mus_musculus": 1144,
+        "Bos_taurus": 1140,
+        "Balaenoptera_musculus": 1140,
+        "Canis_lupus_familiaris": 1140,
+        "Felis_catus": 1140
+      },
+      "retained_record_blocks_byte_identical": true,
+      "previous_subset_file_unchanged": false,
+      "outgroup": null,
+      "interpretation": "unrooted split comparison",
+      "priority": "1: outgroup omission",
+      "bytes": 9398,
+      "sha256": "1d0c499e7232781bb71bed65b2439bd4cbd072add4ebaf8443e9a9b7f36f1f1d"
+    }
+  ]
+}

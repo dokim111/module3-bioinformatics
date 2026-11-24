@@ -1,0 +1,45 @@
+{
+  "zip": "/workspace/scratch/02759745790c/output/Module3_COX1_CYTB_outgroup_comparison.zip",
+  "zip_bytes": 96855,
+  "zip_sha256": "c07bed9d1702849c3719ca10446935616e28cafbe924e0b7e9da66ec28e01459",
+  "verified_manifest_files": 34,
+  "outputs": [
+    {
+      "filename": "Module3_COX1_9species_elephant_outgroup.fasta",
+      "outgroup": "Loxodonta_africana",
+      "taxa": 9,
+      "bytes": 14271,
+      "sha256": "29daaea0dfd62acff95afdeeeaafa93c96a9c753172f93723f98db01fd516127",
+      "original_eight_record_blocks_byte_identical": true
+    },
+    {
+      "filename": "Module3_CYTB_9species_elephant_outgroup.fasta",
+      "outgroup": "Loxodonta_africana",
+      "taxa": 9,
+      "bytes": 10572,
+      "sha256": "fc4f0b20fd5c201564c16313ecc7282783c46b9aa34bdf4f53284fae9beae030",
+      "original_eight_record_blocks_byte_identical": true
+    },
+    {
+      "filename": "Module3_COX1_9species_armadillo_outgroup.fasta",
+      "outgroup": "Dasypus_novemcinctus",
+      "taxa": 9,
+      "bytes": 14267,
+      "sha256": "41dd9f9ae8ebe41ca22f5df826fcb72c2a9acb6ddc26433e9312dbd54d52797d",
+      "original_eight_record_blocks_byte_identical": true
+    },
+    {
+      "filename": "Module3_CYTB_9species_armadillo_outgroup.fasta",
+      "outgroup": "Dasypus_novemcinctus",
+      "taxa": 9,
+      "bytes": 10577,
+      "sha256": "3b87b88f69cd914df990b6728d5725e3470481058c8c92325182320b11f2ec08",
+      "original_eight_record_blocks_byte_identical": true
+    }
+  ],
+  "baseline_SVG_byte_identical": true,
+  "original_baselines_unmodified": true,
+  "no_alignment_or_tree_executed": true,
+  "script_reproduction_verified_from_saved_GenBank": true,
+  "reproduction_manifest_files_unchanged": 34
+}

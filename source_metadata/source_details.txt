@@ -1,0 +1,691 @@
+MAMMAL GENE PANEL: SOURCE DETAILS
+Nine taxa are identical to the previously supplied CYTB comparison dataset.
+Coordinates are 1-based and inclusive. ND6 was reverse-complemented into coding orientation.
+All files are unaligned nucleotide CDS sequences. No bases were added or removed to force equal lengths.
+
+GENE: COX1
+Homo_sapiens | NC_012920.1 | 5904..7445 | 1542 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_012920.1&rettype=fasta&retmode=text&seq_start=5904&seq_stop=7445&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_012920.1&db=nuccore&report=genbank&retmode=text
+NCBI notes: cytochrome c oxidase I
+
+Pan_troglodytes | NC_001643.1 | 5321..6862 | 1542 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001643.1&rettype=fasta&retmode=text&seq_start=5321&seq_stop=6862&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001643.1&db=nuccore&report=genbank&retmode=text
+
+Castor_canadensis | NC_033912.1 | 5344..6888 | 1545 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_033912.1&rettype=fasta&retmode=text&seq_start=5344&seq_stop=6888&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_033912.1&db=nuccore&report=genbank&retmode=text
+
+Mus_musculus | NC_005089.1 | 5328..6872 | 1545 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_005089.1&rettype=fasta&retmode=text&seq_start=5328&seq_stop=6872&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_005089.1&db=nuccore&report=genbank&retmode=text
+NCBI notes: cytochrome oxidase subunit 1; cytochrome c oxidase polypeptide 1; cytochrome c oxidase subunit 1
+
+Bos_taurus | NC_006853.1 | 5687..7231 | 1545 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_006853.1&rettype=fasta&retmode=text&seq_start=5687&seq_stop=7231&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_006853.1&db=nuccore&report=genbank&retmode=text
+
+Balaenoptera_musculus | NC_001601.1 | 5779..7329 | 1551 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001601.1&rettype=fasta&retmode=text&seq_start=5779&seq_stop=7329&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001601.1&db=nuccore&report=genbank&retmode=text
+
+Canis_lupus_familiaris | NC_002008.4 | 5349..6893 | 1545 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_002008.4&rettype=fasta&retmode=text&seq_start=5349&seq_stop=6893&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_002008.4&db=nuccore&report=genbank&retmode=text
+
+Felis_catus | NC_001700.1 | 6216..7760 | 1545 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001700.1&rettype=fasta&retmode=text&seq_start=6216&seq_stop=7760&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001700.1&db=nuccore&report=genbank&retmode=text
+
+Didelphis_virginiana | NC_001610.1 | 5397..6938 | 1542 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001610.1&rettype=fasta&retmode=text&seq_start=5397&seq_stop=6938&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001610.1&db=nuccore&report=genbank&retmode=text
+
+GENE: COX2
+Homo_sapiens | NC_012920.1 | 7586..8269 | 684 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_012920.1&rettype=fasta&retmode=text&seq_start=7586&seq_stop=8269&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_012920.1&db=nuccore&report=genbank&retmode=text
+NCBI notes: cytochrome c oxidase II
+
+Pan_troglodytes | NC_001643.1 | 7003..7686 | 684 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001643.1&rettype=fasta&retmode=text&seq_start=7003&seq_stop=7686&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001643.1&db=nuccore&report=genbank&retmode=text
+
+Castor_canadensis | NC_033912.1 | 7031..7714 | 684 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_033912.1&rettype=fasta&retmode=text&seq_start=7031&seq_stop=7714&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_033912.1&db=nuccore&report=genbank&retmode=text
+
+Mus_musculus | NC_005089.1 | 7013..7696 | 684 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_005089.1&rettype=fasta&retmode=text&seq_start=7013&seq_stop=7696&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_005089.1&db=nuccore&report=genbank&retmode=text
+
+Bos_taurus | NC_006853.1 | 7374..8057 | 684 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_006853.1&rettype=fasta&retmode=text&seq_start=7374&seq_stop=8057&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_006853.1&db=nuccore&report=genbank&retmode=text
+
+Balaenoptera_musculus | NC_001601.1 | 7469..8152 | 684 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001601.1&rettype=fasta&retmode=text&seq_start=7469&seq_stop=8152&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001601.1&db=nuccore&report=genbank&retmode=text
+
+Canis_lupus_familiaris | NC_002008.4 | 7034..7717 | 684 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_002008.4&rettype=fasta&retmode=text&seq_start=7034&seq_stop=7717&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_002008.4&db=nuccore&report=genbank&retmode=text
+
+Felis_catus | NC_001700.1 | 7902..8585 | 684 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001700.1&rettype=fasta&retmode=text&seq_start=7902&seq_stop=8585&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001700.1&db=nuccore&report=genbank&retmode=text
+
+Didelphis_virginiana | NC_001610.1 | 7084..7765 | 682 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001610.1&rettype=fasta&retmode=text&seq_start=7084&seq_stop=7765&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001610.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:7765,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+GENE: COX3
+Homo_sapiens | NC_012920.1 | 9207..9990 | 784 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_012920.1&rettype=fasta&retmode=text&seq_start=9207&seq_stop=9990&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_012920.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:9990,aa:TERM)
+NCBI notes: cytochrome c oxidase III; TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Pan_troglodytes | NC_001643.1 | 8625..9408 | 784 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001643.1&rettype=fasta&retmode=text&seq_start=8625&seq_stop=9408&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001643.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:9408,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Castor_canadensis | NC_033912.1 | 8625..9408 | 784 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_033912.1&rettype=fasta&retmode=text&seq_start=8625&seq_stop=9408&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_033912.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:9408,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Mus_musculus | NC_005089.1 | 8607..9390 | 784 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_005089.1&rettype=fasta&retmode=text&seq_start=8607&seq_stop=9390&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_005089.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:9390,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA; cytochrome oxidase sununit 3
+
+Bos_taurus | NC_006853.1 | 8970..9750 | 781 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_006853.1&rettype=fasta&retmode=text&seq_start=8970&seq_stop=9750&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_006853.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:9750,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Balaenoptera_musculus | NC_001601.1 | 9066..9851 | 786 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001601.1&rettype=fasta&retmode=text&seq_start=9066&seq_stop=9851&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001601.1&db=nuccore&report=genbank&retmode=text
+
+Canis_lupus_familiaris | NC_002008.4 | 8644..9427 | 784 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_002008.4&rettype=fasta&retmode=text&seq_start=8644&seq_stop=9427&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_002008.4&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:9427,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Felis_catus | NC_001700.1 | 9499..10282 | 784 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001700.1&rettype=fasta&retmode=text&seq_start=9499&seq_stop=10282&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001700.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:10282,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Didelphis_virginiana | NC_001610.1 | 8671..9454 | 784 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001610.1&rettype=fasta&retmode=text&seq_start=8671&seq_stop=9454&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001610.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:9454,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+GENE: CYTB
+Homo_sapiens | NC_012920.1 | 14747..15887 | 1141 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_012920.1&rettype=fasta&retmode=text&seq_start=14747&seq_stop=15887&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_012920.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:15887,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Pan_troglodytes | NC_001643.1 | 14165..15305 | 1141 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001643.1&rettype=fasta&retmode=text&seq_start=14165&seq_stop=15305&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001643.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:15305,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Castor_canadensis | NC_033912.1 | 14163..15302 | 1140 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_033912.1&rettype=fasta&retmode=text&seq_start=14163&seq_stop=15302&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_033912.1&db=nuccore&report=genbank&retmode=text
+
+Mus_musculus | NC_005089.1 | 14145..15288 | 1144 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_005089.1&rettype=fasta&retmode=text&seq_start=14145&seq_stop=15288&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_005089.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:15288,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Bos_taurus | NC_006853.1 | 14514..15653 | 1140 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_006853.1&rettype=fasta&retmode=text&seq_start=14514&seq_stop=15653&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_006853.1&db=nuccore&report=genbank&retmode=text
+
+Balaenoptera_musculus | NC_001601.1 | 14610..15749 | 1140 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001601.1&rettype=fasta&retmode=text&seq_start=14610&seq_stop=15749&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001601.1&db=nuccore&report=genbank&retmode=text
+
+Canis_lupus_familiaris | NC_002008.4 | 14183..15322 | 1140 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_002008.4&rettype=fasta&retmode=text&seq_start=14183&seq_stop=15322&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_002008.4&db=nuccore&report=genbank&retmode=text
+
+Felis_catus | NC_001700.1 | 15038..16177 | 1140 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001700.1&rettype=fasta&retmode=text&seq_start=15038&seq_stop=16177&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001700.1&db=nuccore&report=genbank&retmode=text
+
+Didelphis_virginiana | NC_001610.1 | 14177..15325 | 1149 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001610.1&rettype=fasta&retmode=text&seq_start=14177&seq_stop=15325&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001610.1&db=nuccore&report=genbank&retmode=text
+
+GENE: ND1
+Homo_sapiens | NC_012920.1 | 3307..4262 | 956 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_012920.1&rettype=fasta&retmode=text&seq_start=3307&seq_stop=4262&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_012920.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:4261..4262,aa:TERM)
+NCBI notes: NADH dehydrogenase, subunit 1 (complex I); TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Pan_troglodytes | NC_001643.1 | <2725..3681 | 957 nt
+Boundary warning: Partial/uncertain CDS boundary in NCBI annotation.
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001643.1&rettype=fasta&retmode=text&seq_start=2725&seq_stop=3681&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001643.1&db=nuccore&report=genbank&retmode=text
+
+Castor_canadensis | NC_033912.1 | 2757..3711 | 955 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_033912.1&rettype=fasta&retmode=text&seq_start=2757&seq_stop=3711&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_033912.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:3711,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Mus_musculus | NC_005089.1 | 2751..3707 | 957 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_005089.1&rettype=fasta&retmode=text&seq_start=2751&seq_stop=3707&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_005089.1&db=nuccore&report=genbank&retmode=text
+
+Bos_taurus | NC_006853.1 | 3101..4056 | 956 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_006853.1&rettype=fasta&retmode=text&seq_start=3101&seq_stop=4056&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_006853.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:4055..4056,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Balaenoptera_musculus | NC_001601.1 | 3187..4143 | 957 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001601.1&rettype=fasta&retmode=text&seq_start=3187&seq_stop=4143&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001601.1&db=nuccore&report=genbank&retmode=text
+
+Canis_lupus_familiaris | NC_002008.4 | 2747..3702 | 956 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_002008.4&rettype=fasta&retmode=text&seq_start=2747&seq_stop=3702&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_002008.4&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:3701..3702,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Felis_catus | NC_001700.1 | 3615..4570 | 956 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001700.1&rettype=fasta&retmode=text&seq_start=3615&seq_stop=4570&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001700.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:4569..4570,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Didelphis_virginiana | NC_001610.1 | 2741..3697 | 957 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001610.1&rettype=fasta&retmode=text&seq_start=2741&seq_stop=3697&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001610.1&db=nuccore&report=genbank&retmode=text
+
+GENE: ND2
+Homo_sapiens | NC_012920.1 | 4470..5511 | 1042 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_012920.1&rettype=fasta&retmode=text&seq_start=4470&seq_stop=5511&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_012920.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:5511,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Pan_troglodytes | NC_001643.1 | 3888..4931 | 1044 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001643.1&rettype=fasta&retmode=text&seq_start=3888&seq_stop=4931&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001643.1&db=nuccore&report=genbank&retmode=text
+
+Castor_canadensis | NC_033912.1 | 3922..4963 | 1042 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_033912.1&rettype=fasta&retmode=text&seq_start=3922&seq_stop=4963&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_033912.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:4963,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Mus_musculus | NC_005089.1 | 3914..4951 | 1038 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_005089.1&rettype=fasta&retmode=text&seq_start=3914&seq_stop=4951&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_005089.1&db=nuccore&report=genbank&retmode=text
+
+Bos_taurus | NC_006853.1 | 4266..5307 | 1042 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_006853.1&rettype=fasta&retmode=text&seq_start=4266&seq_stop=5307&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_006853.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:5307,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Balaenoptera_musculus | NC_001601.1 | 4352..5395 | 1044 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001601.1&rettype=fasta&retmode=text&seq_start=4352&seq_stop=5395&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001601.1&db=nuccore&report=genbank&retmode=text
+
+Canis_lupus_familiaris | NC_002008.4 | 3914..4955 | 1042 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_002008.4&rettype=fasta&retmode=text&seq_start=3914&seq_stop=4955&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_002008.4&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:4955,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Felis_catus | NC_001700.1 | 4781..5822 | 1042 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001700.1&rettype=fasta&retmode=text&seq_start=4781&seq_stop=5822&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001700.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:5822,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Didelphis_virginiana | NC_001610.1 | 3902..4945 | 1044 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001610.1&rettype=fasta&retmode=text&seq_start=3902&seq_stop=4945&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001610.1&db=nuccore&report=genbank&retmode=text
+
+GENE: ND3
+Homo_sapiens | NC_012920.1 | 10059..10404 | 346 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_012920.1&rettype=fasta&retmode=text&seq_start=10059&seq_stop=10404&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_012920.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:10404,aa:TERM)
+NCBI notes: NADH dehydrogenase, subunit 3 (complex I); TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Pan_troglodytes | NC_001643.1 | 9477..9822 | 346 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001643.1&rettype=fasta&retmode=text&seq_start=9477&seq_stop=9822&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001643.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:9822,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA'
+
+Castor_canadensis | NC_033912.1 | <9503..9824 | 322 nt
+Boundary warning: Partial/uncertain CDS boundary in NCBI annotation.
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_033912.1&rettype=fasta&retmode=text&seq_start=9503&seq_stop=9824&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_033912.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:9824,aa:TERM)
+NCBI notes: start codon not determined; TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Mus_musculus | NC_005089.1 | 9459..9806 | 348 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_005089.1&rettype=fasta&retmode=text&seq_start=9459&seq_stop=9806&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_005089.1&db=nuccore&report=genbank&retmode=text
+
+Bos_taurus | NC_006853.1 | 9823..10168 | 346 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_006853.1&rettype=fasta&retmode=text&seq_start=9823&seq_stop=10168&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_006853.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:10168,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Balaenoptera_musculus | NC_001601.1 | 9920..10265 | 346 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001601.1&rettype=fasta&retmode=text&seq_start=9920&seq_stop=10265&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001601.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:10265,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Canis_lupus_familiaris | NC_002008.4 | 9496..9841 | 346 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_002008.4&rettype=fasta&retmode=text&seq_start=9496&seq_stop=9841&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_002008.4&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:9841,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Felis_catus | NC_001700.1 | 10352..10698 | 347 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001700.1&rettype=fasta&retmode=text&seq_start=10352&seq_stop=10698&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001700.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:10697..10698,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Didelphis_virginiana | NC_001610.1 | 9520..9868 | 349 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001610.1&rettype=fasta&retmode=text&seq_start=9520&seq_stop=9868&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001610.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:9868,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+GENE: ND4
+Homo_sapiens | NC_012920.1 | 10760..12137 | 1378 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_012920.1&rettype=fasta&retmode=text&seq_start=10760&seq_stop=12137&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_012920.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:12137,aa:TERM)
+NCBI notes: NADH dehydrogenase, subunit 4 (complex I); TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Pan_troglodytes | NC_001643.1 | 10178..11555 | 1378 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001643.1&rettype=fasta&retmode=text&seq_start=10178&seq_stop=11555&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001643.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:11555,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Castor_canadensis | NC_033912.1 | 10184..11561 | 1378 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_033912.1&rettype=fasta&retmode=text&seq_start=10184&seq_stop=11561&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_033912.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:11561,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Mus_musculus | NC_005089.1 | 10167..11544 | 1378 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_005089.1&rettype=fasta&retmode=text&seq_start=10167&seq_stop=11544&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_005089.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:11544,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Bos_taurus | NC_006853.1 | 10529..11906 | 1378 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_006853.1&rettype=fasta&retmode=text&seq_start=10529&seq_stop=11906&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_006853.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:11906,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Balaenoptera_musculus | NC_001601.1 | 10626..12003 | 1378 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001601.1&rettype=fasta&retmode=text&seq_start=10626&seq_stop=12003&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001601.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:12003,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Canis_lupus_familiaris | NC_002008.4 | 10201..11578 | 1378 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_002008.4&rettype=fasta&retmode=text&seq_start=10201&seq_stop=11578&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_002008.4&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:11578,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Felis_catus | NC_001700.1 | 11058..12435 | 1378 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001700.1&rettype=fasta&retmode=text&seq_start=11058&seq_stop=12435&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001700.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:12435,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+Didelphis_virginiana | NC_001610.1 | 10229..11606 | 1378 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001610.1&rettype=fasta&retmode=text&seq_start=10229&seq_stop=11606&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001610.1&db=nuccore&report=genbank&retmode=text
+Translation exception: (pos:11606,aa:TERM)
+NCBI notes: TAA stop codon is completed by the addition of 3' A residues to the mRNA
+
+GENE: ND4L
+Homo_sapiens | NC_012920.1 | 10470..10766 | 297 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_012920.1&rettype=fasta&retmode=text&seq_start=10470&seq_stop=10766&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_012920.1&db=nuccore&report=genbank&retmode=text
+NCBI notes: NADH dehydrogenase, subunit 4L (complex I)
+
+Pan_troglodytes | NC_001643.1 | 9888..10184 | 297 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001643.1&rettype=fasta&retmode=text&seq_start=9888&seq_stop=10184&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001643.1&db=nuccore&report=genbank&retmode=text
+
+Castor_canadensis | NC_033912.1 | 9894..10190 | 297 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_033912.1&rettype=fasta&retmode=text&seq_start=9894&seq_stop=10190&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_033912.1&db=nuccore&report=genbank&retmode=text
+
+Mus_musculus | NC_005089.1 | 9877..10173 | 297 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_005089.1&rettype=fasta&retmode=text&seq_start=9877&seq_stop=10173&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_005089.1&db=nuccore&report=genbank&retmode=text
+
+Bos_taurus | NC_006853.1 | 10239..10535 | 297 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_006853.1&rettype=fasta&retmode=text&seq_start=10239&seq_stop=10535&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_006853.1&db=nuccore&report=genbank&retmode=text
+
+Balaenoptera_musculus | NC_001601.1 | 10336..10632 | 297 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001601.1&rettype=fasta&retmode=text&seq_start=10336&seq_stop=10632&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001601.1&db=nuccore&report=genbank&retmode=text
+
+Canis_lupus_familiaris | NC_002008.4 | 9911..10207 | 297 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_002008.4&rettype=fasta&retmode=text&seq_start=9911&seq_stop=10207&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_002008.4&db=nuccore&report=genbank&retmode=text
+
+Felis_catus | NC_001700.1 | 10768..11064 | 297 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001700.1&rettype=fasta&retmode=text&seq_start=10768&seq_stop=11064&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001700.1&db=nuccore&report=genbank&retmode=text
+
+Didelphis_virginiana | NC_001610.1 | 9939..10235 | 297 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001610.1&rettype=fasta&retmode=text&seq_start=9939&seq_stop=10235&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001610.1&db=nuccore&report=genbank&retmode=text
+
+GENE: ND5
+Homo_sapiens | NC_012920.1 | 12337..14148 | 1812 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_012920.1&rettype=fasta&retmode=text&seq_start=12337&seq_stop=14148&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_012920.1&db=nuccore&report=genbank&retmode=text
+NCBI notes: NADH dehydrogenase, subunit 5 (complex I)
+
+Pan_troglodytes | NC_001643.1 | 11755..13566 | 1812 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001643.1&rettype=fasta&retmode=text&seq_start=11755&seq_stop=13566&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001643.1&db=nuccore&report=genbank&retmode=text
+
+Castor_canadensis | NC_033912.1 | 11759..13567 | 1809 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_033912.1&rettype=fasta&retmode=text&seq_start=11759&seq_stop=13567&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_033912.1&db=nuccore&report=genbank&retmode=text
+
+Mus_musculus | NC_005089.1 | 11742..13565 | 1824 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_005089.1&rettype=fasta&retmode=text&seq_start=11742&seq_stop=13565&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_005089.1&db=nuccore&report=genbank&retmode=text
+NCBI notes: NADH dehydrogenase chain 5
+
+Bos_taurus | NC_006853.1 | 12109..13929 | 1821 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_006853.1&rettype=fasta&retmode=text&seq_start=12109&seq_stop=13929&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_006853.1&db=nuccore&report=genbank&retmode=text
+
+Balaenoptera_musculus | NC_001601.1 | 12205..14025 | 1821 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001601.1&rettype=fasta&retmode=text&seq_start=12205&seq_stop=14025&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001601.1&db=nuccore&report=genbank&retmode=text
+
+Canis_lupus_familiaris | NC_002008.4 | 11778..13598 | 1821 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_002008.4&rettype=fasta&retmode=text&seq_start=11778&seq_stop=13598&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_002008.4&db=nuccore&report=genbank&retmode=text
+
+Felis_catus | NC_001700.1 | 12634..14454 | 1821 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001700.1&rettype=fasta&retmode=text&seq_start=12634&seq_stop=14454&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001700.1&db=nuccore&report=genbank&retmode=text
+
+Didelphis_virginiana | NC_001610.1 | 11795..13603 | 1809 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001610.1&rettype=fasta&retmode=text&seq_start=11795&seq_stop=13603&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001610.1&db=nuccore&report=genbank&retmode=text
+
+GENE: ND6
+Homo_sapiens | NC_012920.1 | complement(14149..14673) | 525 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_012920.1&rettype=fasta&retmode=text&seq_start=14149&seq_stop=14673&strand=2
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_012920.1&db=nuccore&report=genbank&retmode=text
+NCBI notes: NADH dehydrogenase, subunit 6 (complex I)
+
+Pan_troglodytes | NC_001643.1 | complement(13567..14091) | 525 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001643.1&rettype=fasta&retmode=text&seq_start=13567&seq_stop=14091&strand=2
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001643.1&db=nuccore&report=genbank&retmode=text
+
+Castor_canadensis | NC_033912.1 | complement(13564..14088) | 525 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_033912.1&rettype=fasta&retmode=text&seq_start=13564&seq_stop=14088&strand=2
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_033912.1&db=nuccore&report=genbank&retmode=text
+
+Mus_musculus | NC_005089.1 | complement(13552..14070) | 519 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_005089.1&rettype=fasta&retmode=text&seq_start=13552&seq_stop=14070&strand=2
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_005089.1&db=nuccore&report=genbank&retmode=text
+NCBI notes: EST AA435281
+
+Bos_taurus | NC_006853.1 | complement(13913..14440) | 528 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_006853.1&rettype=fasta&retmode=text&seq_start=13913&seq_stop=14440&strand=2
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_006853.1&db=nuccore&report=genbank&retmode=text
+
+Balaenoptera_musculus | NC_001601.1 | complement(14009..14536) | 528 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001601.1&rettype=fasta&retmode=text&seq_start=14009&seq_stop=14536&strand=2
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001601.1&db=nuccore&report=genbank&retmode=text
+
+Canis_lupus_familiaris | NC_002008.4 | complement(13582..14109) | 528 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_002008.4&rettype=fasta&retmode=text&seq_start=13582&seq_stop=14109&strand=2
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_002008.4&db=nuccore&report=genbank&retmode=text
+
+Felis_catus | NC_001700.1 | complement(14438..14965) | 528 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001700.1&rettype=fasta&retmode=text&seq_start=14438&seq_stop=14965&strand=2
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001700.1&db=nuccore&report=genbank&retmode=text
+
+Didelphis_virginiana | NC_001610.1 | complement(13600..14106) | 507 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001610.1&rettype=fasta&retmode=text&seq_start=13600&seq_stop=14106&strand=2
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001610.1&db=nuccore&report=genbank&retmode=text
+
+GENE: ATP6
+Homo_sapiens | NC_012920.1 | 8527..9207 | 681 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_012920.1&rettype=fasta&retmode=text&seq_start=8527&seq_stop=9207&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_012920.1&db=nuccore&report=genbank&retmode=text
+NCBI notes: ATP synthase 6; ATPase subunit 6
+
+Pan_troglodytes | NC_001643.1 | 7945..8625 | 681 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001643.1&rettype=fasta&retmode=text&seq_start=7945&seq_stop=8625&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001643.1&db=nuccore&report=genbank&retmode=text
+
+Castor_canadensis | NC_033912.1 | 7945..8625 | 681 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_033912.1&rettype=fasta&retmode=text&seq_start=7945&seq_stop=8625&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_033912.1&db=nuccore&report=genbank&retmode=text
+
+Mus_musculus | NC_005089.1 | 7927..8607 | 681 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_005089.1&rettype=fasta&retmode=text&seq_start=7927&seq_stop=8607&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_005089.1&db=nuccore&report=genbank&retmode=text
+
+Bos_taurus | NC_006853.1 | 8290..8970 | 681 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_006853.1&rettype=fasta&retmode=text&seq_start=8290&seq_stop=8970&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_006853.1&db=nuccore&report=genbank&retmode=text
+
+Balaenoptera_musculus | NC_001601.1 | 8386..9066 | 681 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001601.1&rettype=fasta&retmode=text&seq_start=8386&seq_stop=9066&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001601.1&db=nuccore&report=genbank&retmode=text
+
+Canis_lupus_familiaris | NC_002008.4 | 7964..8644 | 681 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_002008.4&rettype=fasta&retmode=text&seq_start=7964&seq_stop=8644&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_002008.4&db=nuccore&report=genbank&retmode=text
+
+Felis_catus | NC_001700.1 | 8819..9499 | 681 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001700.1&rettype=fasta&retmode=text&seq_start=8819&seq_stop=9499&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001700.1&db=nuccore&report=genbank&retmode=text
+
+Didelphis_virginiana | NC_001610.1 | 7991..8671 | 681 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001610.1&rettype=fasta&retmode=text&seq_start=7991&seq_stop=8671&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001610.1&db=nuccore&report=genbank&retmode=text
+
+GENE: ATP8
+Homo_sapiens | NC_012920.1 | 8366..8572 | 207 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_012920.1&rettype=fasta&retmode=text&seq_start=8366&seq_stop=8572&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_012920.1&db=nuccore&report=genbank&retmode=text
+NCBI notes: ATP synthase 8; ATPase subunit 8
+
+Pan_troglodytes | NC_001643.1 | 7784..7990 | 207 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001643.1&rettype=fasta&retmode=text&seq_start=7784&seq_stop=7990&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001643.1&db=nuccore&report=genbank&retmode=text
+
+Castor_canadensis | NC_033912.1 | 7784..7987 | 204 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_033912.1&rettype=fasta&retmode=text&seq_start=7784&seq_stop=7987&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_033912.1&db=nuccore&report=genbank&retmode=text
+
+Mus_musculus | NC_005089.1 | 7766..7969 | 204 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_005089.1&rettype=fasta&retmode=text&seq_start=7766&seq_stop=7969&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_005089.1&db=nuccore&report=genbank&retmode=text
+
+Bos_taurus | NC_006853.1 | 8129..8329 | 201 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_006853.1&rettype=fasta&retmode=text&seq_start=8129&seq_stop=8329&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_006853.1&db=nuccore&report=genbank&retmode=text
+
+Balaenoptera_musculus | NC_001601.1 | 8225..8416 | 192 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001601.1&rettype=fasta&retmode=text&seq_start=8225&seq_stop=8416&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001601.1&db=nuccore&report=genbank&retmode=text
+
+Canis_lupus_familiaris | NC_002008.4 | 7803..8006 | 204 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_002008.4&rettype=fasta&retmode=text&seq_start=7803&seq_stop=8006&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_002008.4&db=nuccore&report=genbank&retmode=text
+
+Felis_catus | NC_001700.1 | 8658..8861 | 204 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001700.1&rettype=fasta&retmode=text&seq_start=8658&seq_stop=8861&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001700.1&db=nuccore&report=genbank&retmode=text
+
+Didelphis_virginiana | NC_001610.1 | 7827..8036 | 210 nt
+Boundary warning: none
+FASTA: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_001610.1&rettype=fasta&retmode=text&seq_start=7827&seq_stop=8036&strand=1
+GenBank: https://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?id=NC_001610.1&db=nuccore&report=genbank&retmode=text
+

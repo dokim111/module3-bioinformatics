@@ -1,0 +1,14 @@
+﻿gene,input_CDS_length_nt,Homo_Pan_support,Homo_Pan_Castor_support,Castor_Mus_support,Homo_Pan_Castor_Mus_support,Canis_Felis_support,Bos_Balaenoptera_support
+COX1,1542–1551,100,89,absent,absent,49,93
+COX2,682–684,100,absent,absent,absent,absent,absent
+COX3,781–786,100,60,absent,absent,73,44
+CYTB,1140–1149,100,71,absent,absent,31,92
+ND1,955–957,100,86,absent,absent,66,absent
+ND2,1038–1044,100,39,absent,absent,96,98
+ND3,322–349,100,53,absent,absent,absent,absent
+ND4,1378,100,absent,absent,absent,87,97
+ND4L,297,100,absent,89,absent,59,38
+ND5,1809–1824,100,absent,absent,absent,100,74
+ND6,507–528,100,absent,absent,absent,91,absent
+ATP6,681,100,absent,absent,absent,81,absent
+ATP8,192–210,100,absent,absent,absent,62,80

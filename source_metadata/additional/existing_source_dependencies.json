@@ -1,0 +1,62 @@
+{
+  "source_archive": "Module3_bioinformatics_originals.zip",
+  "source_archive_sha256": "9a66c7773b687f3b2a84d0879e23deaa5296b8ea33ca157fc7a4e40a2ebd966d",
+  "description": "Original nine GenBank records are reused from the existing archive and not duplicated in this extension",
+  "records": [
+    {
+      "existing_archive_entry": "NCBI_original_records/NC_001601.1.gb",
+      "bytes": 38250,
+      "sha256": "a95e1001ca5e0871fd623cde6439d3b51ad758258ac77d77559eb73ca112cf07",
+      "staged_again": false
+    },
+    {
+      "existing_archive_entry": "NCBI_original_records/NC_001610.1.gb",
+      "bytes": 39607,
+      "sha256": "543646808c6923874e9b742a70b6c7fd2bdb014203abc2459d6eb5103325ca44",
+      "staged_again": false
+    },
+    {
+      "existing_archive_entry": "NCBI_original_records/NC_001643.1.gb",
+      "bytes": 43750,
+      "sha256": "c4a607813cd6a2fc08726df6623504b420bae059458eb3c0e44e5fe08374e740",
+      "staged_again": false
+    },
+    {
+      "existing_archive_entry": "NCBI_original_records/NC_001700.1.gb",
+      "bytes": 44626,
+      "sha256": "16ae412dbd0ba0dd33b09dd2da6275fba00da102f652605b116b358d97fdabdf",
+      "staged_again": false
+    },
+    {
+      "existing_archive_entry": "NCBI_original_records/NC_002008.4.gb",
+      "bytes": 43667,
+      "sha256": "f5909eb664843c7e3ae6c15b7df59038eec52f1e8df66c7bc50066c167edd88d",
+      "staged_again": false
+    },
+    {
+      "existing_archive_entry": "NCBI_original_records/NC_005089.1.gb",
+      "bytes": 55692,
+      "sha256": "d11cca52ac1efc1d143cbb22ac2530fc086b1a728b97c6a9e48001cb1039027f",
+      "staged_again": false
+    },
+    {
+      "existing_archive_entry": "NCBI_original_records/NC_006853.1.gb",
+      "bytes": 43889,
+      "sha256": "d39ea2fe63912dcd6c50a209a9546bf80f94b165e2fa4a663efd9c5a84a691ae",
+      "staged_again": false
+    },
+    {
+      "existing_archive_entry": "NCBI_original_records/NC_012920.1.gb",
+      "bytes": 64640,
+      "sha256": "7530d659e7174272372814edfecb2ece1f87a444395a861fcdf1b977c4aa5c1f",
+      "staged_again": false
+    },
+    {
+      "existing_archive_entry": "NCBI_original_records/NC_033912.1.gb",
+      "bytes": 45851,
+      "sha256": "78d4fa5324a77cb81ff1b6605e242ad85777e63e9463823a92ea6e70877bce0e",
+      "staged_again": false
+    }
+  ],
+  "source_archive_role": "Historical baseline snapshot before adding the eleven new conditions; the stored archive hash refers to that earlier version."
+}

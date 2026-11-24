@@ -1,0 +1,42 @@
+organism,order,accession_version,gene,CDS_location,length_nt,source_url
+Homo sapiens,Primates,NC_012920.1,CYTB,14747..15887,1141,https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1
+Pan troglodytes,Primates,NC_001643.1,CYTB,14165..15305,1141,https://www.ncbi.nlm.nih.gov/nuccore/NC_001643.1
+Gorilla gorilla,Primates,NC_001645.1,CYTB,14169..15309,1141,https://www.ncbi.nlm.nih.gov/nuccore/NC_001645.1
+Pongo pygmaeus,Primates,NC_001646.1,CYTB,14191..15331,1141,https://www.ncbi.nlm.nih.gov/nuccore/NC_001646.1
+Hylobates lar,Primates,NC_002082.1,CYTB,14167..15307,1141,https://www.ncbi.nlm.nih.gov/nuccore/NC_002082.1
+Macaca mulatta,Primates,NC_005943.1,CYTB,14741..15881,1141,https://www.ncbi.nlm.nih.gov/nuccore/NC_005943.1
+Papio anubis,Primates,NC_020006.2,CYTB,14168..15308,1141,https://www.ncbi.nlm.nih.gov/nuccore/NC_020006.2
+Callithrix jacchus,Primates,NC_025586.1,CYTB,14141..15280,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_025586.1
+Lemur catta,Primates,NC_059325.1,CYTB,14176..15315,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_059325.1
+Carlito syrichta,Primates,NC_012774.1,CYTB,14190..15329,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_012774.1
+Mus musculus,Rodentia,NC_005089.1,CYTB,14145..15288,1144,https://www.ncbi.nlm.nih.gov/nuccore/NC_005089.1
+Rattus norvegicus,Rodentia,NC_001665.2,CYTB,14136..15278,1143,https://www.ncbi.nlm.nih.gov/nuccore/NC_001665.2
+Castor canadensis,Rodentia,NC_033912.1,CYTB,14163..15302,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_033912.1
+Cricetulus griseus,Rodentia,NC_007936.1,CYTB,14123..15265,1143,https://www.ncbi.nlm.nih.gov/nuccore/NC_007936.1
+Peromyscus maniculatus bairdii,Rodentia,NC_039921.1,CYTB,14147..15290,1144,https://www.ncbi.nlm.nih.gov/nuccore/NC_039921.1
+Sciurus vulgaris,Rodentia,NC_002369.1,CYTB,14167..15306,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_002369.1
+Marmota himalayana,Rodentia,NC_018367.1,CYTB,14167..15306,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_018367.1
+Cavia porcellus,Rodentia,NC_000884.1,CYTB,14164..15303,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_000884.1
+Octodon degus,Rodentia,NC_020661.1,CYTB,14191..15330,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_020661.1
+Dipodomys merriami,Rodentia,NC_068807.1,CYTB,14986..16125,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_068807.1
+Bos taurus,Artiodactyla,NC_006853.1,CYTB,14514..15653,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_006853.1
+Balaenoptera musculus,Artiodactyla,NC_001601.1,CYTB,14610..15749,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_001601.1
+Ovis aries,Artiodactyla,NC_001941.1,CYTB,14159..15298,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_001941.1
+Capra hircus,Artiodactyla,NC_005044.2,CYTB,14153..15292,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_005044.2
+Cervus elaphus,Artiodactyla,NC_007704.2,CYTB,14162..15301,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_007704.2
+Alces alces,Artiodactyla,NC_020677.1,CYTB,14156..15295,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_020677.1
+Sus scrofa,Artiodactyla,NC_000845.1,CYTB,15342..16481,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_000845.1
+Camelus dromedarius,Artiodactyla,NC_009849.1,CYTB,14156..15295,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_009849.1
+Hippopotamus amphibius,Artiodactyla,NC_000889.1,CYTB,14172..15311,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_000889.1
+Tursiops truncatus,Artiodactyla,NC_012059.1,CYTB,14195..15334,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_012059.1
+Canis lupus familiaris,Carnivora,NC_002008.4,CYTB,14183..15322,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_002008.4
+Felis catus,Carnivora,NC_001700.1,CYTB,15038..16177,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_001700.1
+Vulpes vulpes,Carnivora,NC_008434.1,CYTB,14185..15324,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_008434.1
+Panthera tigris,Carnivora,NC_010642.1,CYTB,15103..16242,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_010642.1
+Ursus arctos,Carnivora,NC_003427.1,CYTB,15306..16445,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_003427.1
+Ailuropoda melanoleuca,Carnivora,NC_009492.1,CYTB,15529..16668,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_009492.1
+Mustela putorius,Carnivora,NC_020638.1,CYTB,14170..15309,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_020638.1
+Lutra lutra,Carnivora,NC_062277.1,CYTB,14173..15312,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_062277.1
+Phoca vitulina,Carnivora,NC_001325.1,CYTB,15094..16233,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_001325.1
+Odobenus rosmarus rosmarus,Carnivora,NC_004029.2,CYTB,14173..15312,1140,https://www.ncbi.nlm.nih.gov/nuccore/NC_004029.2
+Didelphis virginiana,Didelphimorphia,NC_001610.1,CYTB,14177..15325,1149,https://www.ncbi.nlm.nih.gov/nuccore/NC_001610.1

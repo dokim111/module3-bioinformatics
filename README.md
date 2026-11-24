@@ -4,10 +4,19 @@
 **보고서 본문은 PDF로 별도 제출하며, 이 저장소는 온라인 보충자료입니다.**
 보고서 본문, 학번, 조원 사진은 포함하지 않았습니다.
 
+## 제출용 메인에 사용한 자료
+
+제출용 메인은 기본 영장류 COX1, 고인류 포함 COX1, 포유류 9종의 13개 유전자에 근거합니다.
+해당 원본은 `original_SVG/` 바로 아래의 **15개 SVG**입니다.
+추가 11조건과 아래의 CYTB 41종 결과는 참고용으로 보관하며, 제출용 메인의 방법·결과·결론에 포함하지 않았습니다.
+
+- [제출용 기본 분석 원본 폴더](original_SVG/)
+- [CYTB 41종 참고 자료와 확인된 실행 조건](reference_only/CYTB_41species/)
+
 ## 바로 보기
 
-- [원본 계통수 PDF — 26쪽](Module3_PhyloIO_originals.pdf)
-- [전체 자료 ZIP 다운로드](Module3_bioinformatics_originals.zip)
+- [기존 26개 원본 PDF — 참고용 추가 11개 포함](Module3_PhyloIO_originals.pdf)
+- [기존 26조건 자료 ZIP — 41종 결과는 별도 폴더](Module3_bioinformatics_originals.zip)
 - 최초 포유류 9종 결과: [COX1 원본 SVG](original_SVG/PhyloIO_Tree_COX1_9mam.svg) · [CYTB 원본 SVG](original_SVG/PhyloIO_Tree_CYTB_9mam.svg)
 - [최초 13개 유전자 전체 결과표 CSV](source_metadata/original_13gene_results.csv)
 - [추가 11조건 결과표 CSV](source_metadata/additional/additional_tree_audit.csv) · [상세 해석 JSON](source_metadata/additional/additional_tree_audit.json)
@@ -53,6 +62,9 @@ SVG는 업로드된 원본 바이트를 보존했습니다. 26쪽 PDF는 원본�
 [추가 출처 폴더](source_metadata/additional/)에 있습니다.
 
 ## 분석 기록과 해석 범위
+
+새 41종 CYTB의 실행 조건은 실행자가 확인했으며, 해당 폴더에 따로 기록했습니다.
+아래의 미확인 설정에 관한 설명은 제출용 메인에 사용하지 않은 이전 추가 11조건에 해당합니다.
 
 최초 분석의 MAFFT(version 7), NJ, Jukes–Cantor, Conserved sites,
 bootstrap 1,000회는 수업과 실험 기록에 근거합니다.

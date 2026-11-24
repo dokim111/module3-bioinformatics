@@ -1,0 +1,61 @@
+{
+  "status": "reference_only_not_in_main_report",
+  "gene": "CYTB",
+  "sequence_type": "nucleotide",
+  "taxa": 41,
+  "order_counts": {
+    "Primates": 10,
+    "Rodentia": 10,
+    "Artiodactyla_including_cetaceans": 10,
+    "Carnivora": 10,
+    "Didelphimorphia_outgroup": 1
+  },
+  "alignment_program": "MAFFT online",
+  "tree_method": "Neighbor-Joining",
+  "distance_model": "Jukes-Cantor",
+  "site_selection": "Conserved sites",
+  "bootstrap_replicates": 1000,
+  "settings_evidence": "Confirmed by the experimenter in the 2026-11-24 conversation; not inferred from SVG",
+  "original_display_root_is_Didelphis": false,
+  "interpretation_outgroup": "Didelphis virginiana",
+  "results": [
+    {
+      "group": "Carnivora 10 species",
+      "exclusive_group_present": true,
+      "bootstrap": 77
+    },
+    {
+      "group": "Artiodactyla including cetaceans 10 species",
+      "exclusive_group_present": true,
+      "bootstrap": 49
+    },
+    {
+      "group": "Primates 10 species",
+      "exclusive_group_present": false,
+      "bootstrap": null
+    },
+    {
+      "group": "Rodentia 10 species",
+      "exclusive_group_present": false,
+      "bootstrap": null
+    },
+    {
+      "group": "Primates and Rodentia combined 20 species",
+      "exclusive_group_present": false,
+      "bootstrap": null
+    },
+    {
+      "group": "Homo sapiens and Pan troglodytes",
+      "exclusive_group_present": true,
+      "bootstrap": 70
+    },
+    {
+      "group": "Mus musculus and Rattus norvegicus",
+      "exclusive_group_present": true,
+      "bootstrap": 99
+    }
+  ],
+  "null_support_means": "The group is absent, not bootstrap zero",
+  "source_svg_sha256": "7504951f36c9818c48c814083e6b7e6412ae1f69dd45f7f3ddde15e8903fa1a6",
+  "input_fasta_sha256": "8704db53c2d5c525bd22d6ff8cd50715089482bc490d3cba1c72753454dc051c"
+}
